@@ -1,0 +1,31 @@
+﻿Build started 9/29/2015 15:22:16.
+     1>Project "H:\DOS\Portofolio Assignments\A3\cvcvcv\cvcvcv\cvcvcv.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\cvcvcv.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         C:\Apps\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\214051471\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       CoreResGen:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Apps\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\214051471\Desktop\FPA\PA_3\Debug\cvcvcv.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\cvcvcv.Form1.resources /ASSEMBLYRESOURCE:Debug\cvcvcv.TickerForm.resources /MANIFEST /ManifestFile:"Debug\cvcvcv.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\214051471\Desktop\FPA\PA_3\Debug\cvcvcv.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\cvcvcv.obj
+         Debug\stdafx.obj
+         Debug\TickerForm.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         cvcvcv.vcxproj -> C:\Users\214051471\Desktop\FPA\PA_3\Debug\cvcvcv.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\214051471\Desktop\FPA\PA_3\Debug\cvcvcv.exe;#1" /manifest Debug\cvcvcv.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\cvcvcv.unsuccessfulbuild".
+         Touching "Debug\cvcvcv.lastbuildstate".
+     1>Done Building Project "H:\DOS\Portofolio Assignments\A3\cvcvcv\cvcvcv\cvcvcv.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.68

@@ -1,0 +1,37 @@
+﻿Build started 9/29/2015 10:29:03.
+     1>Project "H:\DOS\Portofolio Assignments\PA5\PA5\PA5\PA5.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\PA5.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         C:\Apps\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AddProperty.cpp PA_5.cpp /clr:nostdlib 
+         AddProperty.cpp
+         PA_5.cpp
+     1>h:\dos\portofolio assignments\pa5\pa5\pa5\PA_5.h(464): warning C4101: 'price' : unreferenced local variable
+     1>h:\dos\portofolio assignments\pa5\pa5\pa5\PA_5.h(494): warning C4101: 'e' : unreferenced local variable
+     1>h:\dos\portofolio assignments\pa5\pa5\pa5\PA_5.h(498): warning C4101: 'e' : unreferenced local variable
+     1>h:\dos\portofolio assignments\pa5\pa5\pa5\PA_5.h(587): warning C4101: 'propertyNum' : unreferenced local variable
+     1>PA_5.cpp(9): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(array<System::String^>^ argv)'
+         Generating Code...
+         All outputs are up-to-date.
+       CoreResGen:
+         "C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile AddProperty.resx,Debug\PA5.AddProperty.resources PA_5.resx,Debug\PA5.PA_5.resources
+         Processing resource file "AddProperty.resx" into "Debug\PA5.AddProperty.resources".
+         Processing resource file "PA_5.resx" into "Debug\PA5.PA_5.resources".
+       Link:
+         C:\Apps\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\DOS\Portofolio Assignments\PA5\PA5\Debug\PA5.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Debug\PA5.AddProperty.resources /ASSEMBLYRESOURCE:Debug\PA5.PA_5.resources /MANIFEST /ManifestFile:"Debug\PA5.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"H:\DOS\Portofolio Assignments\PA5\PA5\Debug\PA5.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\AddProperty.obj
+         Debug\PA_5.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+     1>.NETFramework,Version=v4.0.AssemblyAttributes.obj : warning LNK4099: PDB 'vc100.pdb' was not found with '.NETFramework,Version=v4.0.AssemblyAttributes.obj' or at 'H:\DOS\Portofolio Assignments\PA5\PA5\Debug\vc100.pdb'; linking object as if no debug info
+         PA5.vcxproj -> H:\DOS\Portofolio Assignments\PA5\PA5\Debug\PA5.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"H:\DOS\Portofolio Assignments\PA5\PA5\Debug\PA5.exe;#1" /manifest Debug\PA5.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\PA5.unsuccessfulbuild".
+         Touching "Debug\PA5.lastbuildstate".
+     1>Done Building Project "H:\DOS\Portofolio Assignments\PA5\PA5\PA5\PA5.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:19.97
